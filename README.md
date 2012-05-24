@@ -1,7 +1,7 @@
 cliff-samples
 =============
 
-Sample application of [cliff](https://github.com/dreame/sunzi).
+Sample application of [cliff](https://github.com/dreamhost/cliff).
 
 Quickstart
 ----------
