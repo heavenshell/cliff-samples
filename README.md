@@ -24,4 +24,3 @@ foo
 $ python manage.py sample bar
 bar
 ```
-
